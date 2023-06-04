@@ -43,7 +43,7 @@
     width: 7rem;
 }
 .carousel-caption{
-    width: 5rem ;
+    bottom : 5rem ;
 }
 .carousel-indicators {
 gap: 0.7rem;
